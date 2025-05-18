@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">MediaPlayer</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="lbl_playing">Play</string>
+    <string name="lbl_pause">Pause</string>
+    <string name="lbl_fast_forward">Fast Forward</string>
+    <string name="txt_no_media">It seems there is no mp3 files in your music folder</string>
+    <string name="lbl_tacks">Tracks</string>
+    <string name="lbl_ok">Open app setting</string>
+    <string name="lbl_cance">Cancel</string>
+    <string name="txt_permission">Permission are turned off for playing mp3 files, please authorize theme</string>
+    <string name="txt_error_app_setting">Error occurred while opening settings for this application</string>
+
+
+
 </resources>
